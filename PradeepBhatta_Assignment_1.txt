@@ -1,0 +1,11 @@
+Pandas: Pandas is a powerful Python library used for data manipulation and analysis. It provides data structures like DataFrames, which allow easy handling of structured data, such as tabular data (like in spreadsheets). With Pandas, you can read, write, and process data in various formats such as CSV, Excel, and SQL databases.
+
+Numpy: Numpy is a library for numerical computing in Python. It adds support for large, multi-dimensional arrays and matrices, along with a collection of mathematical functions to operate on these arrays. It is highly efficient and forms the base of many data manipulation libraries in Python.
+
+Tensorflow: Tensorflow is an open-source library developed by Google for machine learning and deep learning tasks. It is used to build neural networks and large-scale machine learning models. TensorFlow is well-suited for both research and production-level deployment of models.
+
+Keras: Keras is a high-level neural networks API, written in Python and capable of running on top of TensorFlow. It is designed to enable fast experimentation with deep learning models by providing simple and intuitive APIs for building and training neural networks.
+
+sklearn (Scikit-learn): Scikit-learn is a Python library used for machine learning. It offers simple and efficient tools for data analysis and modeling, including classification, regression, clustering, and dimensionality reduction. It is built on top of Numpy and is commonly used for building predictive models.
+
+Pytorch: PyTorch is an open-source machine learning library developed by Facebook's AI Research lab. It is popular for its dynamic computational graph and ease of use, especially in research settings. PyTorch is used to develop and train deep learning models, similar to TensorFlow, but with a more Pythonic and flexible interface.
